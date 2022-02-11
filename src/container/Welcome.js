@@ -16,7 +16,7 @@ const Welcome = () => {
 
       <div className="welcomeCard  mt-8 flex justify-center transition transform  hover:-translate-y-2 motion-reduce:transition-none motion-reduce:transform-none">
         <div className="border shadow-xl m-4 font-sans text-md md:text-xl p-4 pt-2 rounded-lg border-stone-400  md:w-1/2 md:h-64">
-          Founded on 10/4/2022 , our mission was to deliver high quality watches
+          Founded on 10/2/2022 , our mission was to deliver high quality watches
           while making it as accessible as possible.
           <br />
           <br />

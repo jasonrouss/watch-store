@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer mt-4 bg-neutral-900">
       {/* Icons */}
       <div className="flex mx-2 justify-center icons">
-        <div className=" flex mt-8 text-4xl gap-20">
+        <div className=" flex mt-8 md:text-4xl text-3xl gap-10 md:gap-20">
           <a href="https://github.com/jasonrouss" rel="noreferrer" target="_blank">
             <AiFillGithub />
           </a>
