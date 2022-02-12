@@ -6,6 +6,6 @@ Landing page for a buisness that sells watches
 
 ### Four Sections: 1.Welcome 2.Products 3.FAQ 4.Customer Feedback
 
-### Interactive element: on hove element move up.
+### Interactive elements: on hover the image/text/card move up.
 
 ### Organized display and easy to navigate.
