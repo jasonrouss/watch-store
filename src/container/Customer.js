@@ -12,7 +12,7 @@ const Customer = () => {
         <img
           src={woman}
           alt="customer 1"
-          className="rounded md:w-fit mt-2 mx-2 md:m-0 h-24  md:h-32 "
+          className="rounded md:w-fit mt-4 mx-2 md:m-0 h-24  md:h-32 "
         />
         <div className="mx-4 text-base md:text-xl  mt-4 px-1   font-sans">
           " I am always satisfied with the service , shopping here is a delight!
@@ -23,7 +23,7 @@ const Customer = () => {
         <img
           src={man}
           alt="customer 2"
-          className="rounded md:w-fit  md:m-0 mt-8 mx-2 md:m-0 h-24   md:h-32"
+          className="rounded md:w-fit  md:m-0 mt-4 mx-2 md:m-0 h-24   md:h-32"
         />
         <div className="mx-4 text-base  md:text-xl mt-4 mb-4 px-1 pt-1  font-sans">
           " In valentines day I found the perfect watch for my partner , since
@@ -34,7 +34,7 @@ const Customer = () => {
         <img
           src={woman2}
           alt="customer 3"
-          className="rounded md:w-fit  md:m-0 mt-12 mx-2 md:m-0 h-24    md:h-32 "
+          className="rounded md:w-fit  md:m-0 mt-4 mx-2 md:m-0 h-24    md:h-32 "
         />
         <div className="mx-4  text-base md:text-xl mt-4 mb-4  px-1 pt-1   font-sans">
           " My grandpa collects watches when he needed a new rare piece I was
