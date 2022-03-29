@@ -1,6 +1,6 @@
 # Watch store landing page
 
-Landing page for a buisness that sells watches
+Landing page to inform customers about the watch store location , items , opening hours and more.
 
 # Key Features:
 
