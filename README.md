@@ -4,7 +4,15 @@ Landing page to inform customers about the watch store location , items , openin
 
 # Key Features:
 
-### Four Sections: 1.Welcome 2.Products 3.FAQ 4.Customer Feedback
+### Four Sections: 
+
+1.Welcome 
+
+2.Products 
+
+3.FAQ 
+
+4.Customer Feedback
 
 ### Interactive elements: on hover the image/text/card move up.
 
